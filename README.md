@@ -61,5 +61,5 @@ By implementing **Power BI with a local folder connection**, the company streaml
 ## 📬 Let’s Connect
 
 📧 Email: osarohekhoragbon@gmail.com  
-💼 LinkedIn: (https://www.linkedin.com/posts/osaroh-ekhoragbon_90daysofconsistency-osarohdataanalyticsjourneywith10alytics-activity-7321840547730456577-UAzK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAkcTOMBH04A-GBT9XWCy_GRBdwnuvWM7qY)  
+💼 [Linkedin Project Link](https://www.linkedin.com/posts/osaroh-ekhoragbon_90daysofconsistency-osarohdataanalyticsjourneywith10alytics-activity-7321840547730456577-UAzK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAkcTOMBH04A-GBT9XWCy_GRBdwnuvWM7qY)  
 🌐 GitHub: [github.com/OsarohEkhoragbon](https://github.com/OsarohEkhoragbon)
